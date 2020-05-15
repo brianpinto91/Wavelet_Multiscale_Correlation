@@ -2,7 +2,6 @@
 *Programming language: Python
 *Filename: wmc_modwt.py
 *Description: This module is used to calculate wavelet multiscale correlations between time series with regular time interval.
-*Institute: DLR / ILT
 *Author: Brian Pinto
 *Version: 1.0
 *Date: 21.10.2019
